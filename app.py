@@ -210,7 +210,7 @@ if ask_clicked:
     if not groq_api_key:
         st.error("Please enter your Groq API key in the sidebar.")
     elif st.session_state.vectorstore is None:
-        st.error("Please build the index first (upload PDFs and click Build / Rebuild Index).")
+        st.error("Please build the index first (upload PDFs and click Understand Docs).")
     elif not question.strip():
         st.error("Please type a question.")
     else:

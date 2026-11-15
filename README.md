@@ -86,4 +86,4 @@ Then, in the browser:
 
 ## Author
 
-**Bassam Ahmed** · [LinkedIn](https://www.linkedin.com/in/bssam-ahmed) · [GitHub](https://github.com/bssam99)
+**Bassam Osman** · [LinkedIn](https://www.linkedin.com/in/bssam-ahmed) · [GitHub](https://github.com/bssam99)
